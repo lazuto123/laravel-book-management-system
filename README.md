@@ -221,7 +221,3 @@ This project was created for technical assessment purposes.
 - Tailwind CSS
 
 ---
-
-**Note**: This is a test project demonstrating CRUD operations, authentication, and Laravel best practices.
-
-If you find this project helpful, please consider giving it a star.
